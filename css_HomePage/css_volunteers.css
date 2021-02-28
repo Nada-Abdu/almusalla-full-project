@@ -1,0 +1,51 @@
+
+  #Qvolunter_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #Qvolunter_table td, #Qvolunter_table th {
+    border: 2px solid #ddd;
+    padding: 8px;
+      text-align:center;
+
+  }
+
+  #Qvolunter_table tr:nth-child(even){background-color: #f2f2f2;}
+
+  #Qvolunter_table tr:hover {background-color: #ddd;}
+
+  #Qvolunter_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #28d1cf;
+    color: white;
+  }
+
+
+  #Ivolunter_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #Ivolunter_table td, #Ivolunter_table th {
+    border: 2px solid #ddd;
+    padding: 8px;
+      text-align:center;
+
+  }
+
+  #Ivolunter_table tr:nth-child(even){background-color: #f2f2f2;}
+
+  #Ivolunter_table tr:hover {background-color: #ddd;}
+
+  #Ivolunter_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #28d1cf;
+    color: white;
+  }

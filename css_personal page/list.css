@@ -1,0 +1,15 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+	text-align:center;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  min-width:160px;
+
+
+  box-shadow:#f3f3f3;
+  z-index:1;
+}
+.dropdown-content a:hover {background-color:#f1f1f1}
